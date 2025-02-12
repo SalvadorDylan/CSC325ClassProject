@@ -1,7 +1,9 @@
 # END USER PERSONA
 
-> Dorothy Smithson
-> Business woman in a managerial position, mother of two
+> Dorothy Smithson.
+> 
+> Business woman in a managerial position, mother of two.
+> 
 > 32 years old, female. Boston, USA.
 
 ----------------------------------------------------------------------------------------------------------------------------
