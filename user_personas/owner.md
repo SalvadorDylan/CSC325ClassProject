@@ -1,37 +1,35 @@
 # SOFTWARE OWNER PERSONA
 
-> Jeremy Benson
+> Jeremy Smith
 > 
-> Administrative manager of a tech company.
+> Fresh college graduate, unemployed. Computer Science major
 > 
-> 42 years old, male. Macon, USA.
+> 22 years old, male. Macon, USA.
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 > ### Motivations:
-> - Source out new talent for the company
-> - Add new promising apps to the company's repertoire, aimed at other businesses
-> - Pursue the company's values
+> - Find a job or an internship
+> - Recompile all his experience and acumen in a single organized format
+> - Build some rapport/reputation with other programmers in the online community
 >
 > ### Goals:
-> - To give potential new hirees a chance to prove themselves with a project
-> - To make the company get a foothold into the planner/organizational app market
-> - To potentially use the app himself to organize his duties
+> - To attract the attention of employers and talent managers
+> - To get a foothold in the programming community with his experiences
+> - To land a stable job right after college
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 > ### Challenges
-> - Not easily impressed due to his large amount of experience in the field
+> - Not highly knowledgeable/talented on web design or front-end development
+> - Does not know much about website standards in design
 > 
 > ### Pain points
-> - Very attached to the "old ways" for developing projects like these
+> - Very attached to his own ideas
+> - Not good at summarizing or choosing representative projects instead of just adding all of them to the site
 
 ----------------------------------------------------------------------------------------------------------------------------
 
 > ### Scenario
-> Jeremy has given this latest project of his onto a group of freshly graduated college students as a means to gauge their expertise and talent to become potential
-> hirees of the company he works at. Due to their college grades and personal projects, he expects a lot out of them, and tries to not meddle too much in their
-> workflow: he knows very well that he is stuck with old ideas and methodologies, and does not want them to influence the performance of the development team. Still,
-> he sets strict deadlines for milestones of the project to ensure it is coming along nicely, and it takes a lot of convincing for him to allow the project's launch to
-> be delayed by one month: ultimately, it is the team's passion for detail and perfectionism that sways him. Once it launches, he will be amongst the first to personally
-> test the app, hoping it solves his personal needs as well.
+> Jeremy is highly anxious due to job prospects shortly after his graduation, so he's had the help of two colleagues with designing a website for his portfolio in hopes of driving attention to himself. He will try to update relevant parts
+> of the website, such as the Blog section, near daily due to this anxiety and eagerness to join the work force, but it will also result in him constantly bothering the design team due to feeling like the site isn't being finished fast enough
