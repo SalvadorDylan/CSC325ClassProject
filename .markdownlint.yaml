@@ -1,0 +1,4 @@
+#For disabling rules
+
+MD013: false
+#Disables "line too long" warnings
