@@ -1,7 +1,7 @@
 #For disabling rules
 {
   "default": true,
-  "MD013": false
+  "MD013": false,
 }
 
 #Disables "line too long" warnings
